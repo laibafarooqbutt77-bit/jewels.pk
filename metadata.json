@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Atelier - Premium Stainless Steel Jewellery",
+  "description": "Ultra-premium waterproof, tarnish-free 18k PVD gold & silver stainless steel jewellery with interactive 3D model showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
